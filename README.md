@@ -37,3 +37,12 @@ DATABASES = {
     }
 }
 ```
+### 4) Migraciones en la terminal
+```bash
+python manage.py makemigrations
+python manage.py migrate
+```
+### 5) Ejecutar servidor
+```bash
+python manage.py runserver
+```
