@@ -1,3 +1,5 @@
+<img width="1604" height="884" alt="image" src="https://github.com/user-attachments/assets/4bb6ef1a-18c1-4bd0-b236-df0a6a8292b7" />
+
 # Registro de Usuario con Django y PostgreSQL
 
 ## Requisitos
